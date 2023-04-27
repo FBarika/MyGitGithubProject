@@ -12,6 +12,10 @@ public class AtmApp {
         //brk1
         System.out.println("");
         //brk3
+        System.out.println();
+        if(true){
+            System.out.println();
+        }
 
 
     }
