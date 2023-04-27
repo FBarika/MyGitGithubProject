@@ -8,6 +8,8 @@ public class AtmApp {
         //version3
         System.out.println("Java yi ögrenmek cok kolay");
         //version4
+        System.out.println("barika branch i kodlarini yazdi");
+        //brk1
 
 
     }
